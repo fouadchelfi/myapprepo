@@ -1,4 +1,4 @@
-class Program
+class Program2
 {
-    //hello world
+    //hello world...
 }
